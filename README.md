@@ -57,7 +57,7 @@ Bloodlink-Pakistan/
 
 ## Screenshots
 
-![Donor Registration](screenshots/01_donor_registrationt.png)
+![Donor Registration](screenshots/01_donor_registration.png)
 
 ![SOS emergency matching](screenshots/02_sos_emergency.png)
 
