@@ -37,7 +37,7 @@ Bloodlink-Pakistan/
 ├── app.py                   the complete Gradio app (data generation, models, UI)
 ├── requirements.txt         pinned Gradio plus the Python dependencies
 ├── BLOODLINK_clean.ipynb    original Colab notebook (API key removed)
-├── BloodLink_Presentation_Corrected.pptx   course presentation (Deep Learning, 29 Dec 2025)
+├── BloodLink_Presentation.pptx   course presentation (Deep Learning, 29 Dec 2025)
 ├── screenshots/             app screenshots used in this README
 └── LICENSE                  MIT licence (code)
 ```
