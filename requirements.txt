@@ -1,0 +1,7 @@
+gradio==5.50.0
+numpy
+pandas
+xgboost
+scikit-learn
+geopy
+groq
