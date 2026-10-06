@@ -3,7 +3,7 @@
 **A rule-based donor-matching, XGBoost shortage-forecasting and chatbot prototype for blood donation, built on synthetic data**
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
-[![Live demo](https://img.shields.io/badge/Live%20demo-open%20app-46E3B7.svg)](https://bloodlink-pakistan-b3a28.containers.snapdeploy.app/)
+[![Live demo](https://img.shields.io/badge/Live%20demo-open%20app-46E3B7.svg)](https://bloodlink-pakistan-b3a28.containers.snapdeploy.app)
 
 Gradio web app that ranks nearby compatible blood donors for an emergency request, forecasts 7-day blood demand per blood type with XGBoost, pre-screens donor eligibility, and answers donation questions with a Groq-hosted Llama 3.3 chatbot, **together with an honest account of what its reported numbers do and do not mean**.
 
